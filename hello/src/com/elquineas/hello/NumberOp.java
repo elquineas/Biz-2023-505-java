@@ -24,7 +24,7 @@ public class NumberOp {
 		/*
 		 * 코드에서 사용하는 숫자는
 		 * 정쑤와 실수가있고
-		 * 큰 정수(int, Integer)와 작은 정수(long)
+		 * 작은 정수(int, Integer)와 큰 정수(long)
 		 * 배정도 실수(double), 단정도 실수(float) 가 있다
 		 */
 		System.out.println(999_999_999);
