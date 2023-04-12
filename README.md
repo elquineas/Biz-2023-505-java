@@ -18,6 +18,7 @@
 4. 원격 repository 별명 설정하기 : 
    ```bash
    git remote add origin https://github.com/elquineas/Biz-2023-04-java.git
+   git remote add origin https://github.com/elquineas/Biz-2023-505-java.git
    ```
 
 ### 기존의 repository에 계속해서 update 하고자 할 때
